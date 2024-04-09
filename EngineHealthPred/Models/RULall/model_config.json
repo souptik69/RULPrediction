@@ -1,0 +1,1 @@
+{"num_filters": 16, "num_layers_tcn": null, "kernel_size": 3, "dilation_base": 2, "dropout_rate": 0.2, "key_size": 6, "value_size": 6, "num_attention_heads": 1, "neurons_output": [480], "activation": "relu", "kernel_initializer": "he_normal", "batch_norm_tcn": true, "layer_norm_tcn": false, "autoregressive": false, "padding_encoder": "causal", "padding_decoder": "causal"}
